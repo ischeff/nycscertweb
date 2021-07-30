@@ -11,7 +11,7 @@ Context: Hello! I teach CS and English at Fordham HS for the Arts, in the Bronx.
 ## Data Structures
 - In this course, we are learning about different data structures, including queues, arraylists and more.
 - One of the goals of this course is to equip us to think like computer scientists, not just programmers.
-- For my final project, I implemented a queue and a doubly-linked list from scratch. 
+- For my final project, I implemented a [queue](https://github.com/hunter-teacher-cert/work_csci70900-ischeff/tree/master/ds/queue) and a [doubly-linked list](https://github.com/hunter-teacher-cert/work_csci70900-ischeff/tree/master/ds/dlist) from scratch. 
 ## Methods I
 - This course is designed to teach us about best practices for CS pedagogy.
 - Many lessons involve planning our own mock lessons, such as live-coding demos.
