@@ -1,15 +1,10 @@
 # nycscertweb
-Hello! This is Ian's test page for DW's methods class.
----
-## Programming in Java
-- In this course, we condensed about a semester of intro-level java into 8 days.
-- Among the highlights were implementing a number of games, including [Mancala](https://github.com/hunter-teacher-cert/work_csci70900-ischeff/tree/master/2) and [Craps](https://github.com/hunter-teacher-cert/work_csci70900-ischeff/tree/master/pre/8).
-- We also implemented [Conway's Game of Life](https://github.com/hunter-teacher-cert/work_csci70900-ischeff/tree/master/4).
----
-## Data Structures
-- In this course, we are learning about different data structures, including queues, arraylists and more.
-- One of the goals of this course is to equip us to think like computer scientists, not just programmers.
----
-## Methods I
-- This course is designed to teach us about best practices for CS pedagogy.
-- Many lessons involve planning our own mock lessons, such as live-coding demos.
+
+Turn GH page into a portfolio for this program
+
+1 Section per class
+- Programming in Java
+- Data Structrues
+- Methods I
+
+Each section should provide informaiton about some highlight(s) from that course. It could be code snippet(s) that you are proud of, images of diagrams, screenshots, links to other materials you have produced, etc. There should be enough information about each entry to descibe what it is.
